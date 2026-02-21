@@ -18,8 +18,8 @@ Screen detection engine identifies UI states and handles the full registration f
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/fb-account-creator.git
-cd fb-account-creator
+git clone https://github.com/Shadhink412/fb-auto-creator-pc.git
+cd fb-auto-creator-pc
 
 # Install dependencies
 pip install requests uiautomator2 pyotp
